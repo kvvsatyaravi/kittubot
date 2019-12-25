@@ -19,5 +19,5 @@ open the kittubot folder
 
 now goto browser and enter 127.0.0.1:8000
 output interface
-![GitHub Logo](https://github.com/kvvsatyaravi/kittubot/Capture.PNG)
+![GitHub Logo](https://github.com/kvvsatyaravi/kittubot/blob/master/Capture.PNG)
 
