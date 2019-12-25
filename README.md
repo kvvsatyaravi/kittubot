@@ -14,5 +14,5 @@ Django [web framework]
 
 ### usage
 >python manage.py runserver
-!(https://octodex.github.com/images/yaktocat.png)
+![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
 
