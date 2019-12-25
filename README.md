@@ -13,7 +13,11 @@ Python 3.0+
 Django [web framework]
 
 ### usage
+open the kittubot folder 
+[windows] on command promt type these command (or) [linux] on terminal type these command 
 >python manage.py runserver
 
-![GitHub Logo](https://octodex.github.com/images/yaktocat.png)
+now goto browser and enter 127.0.0.1:8000
+output interface
+![GitHub Logo](https://github.com/kvvsatyaravi/kittubot/capture.png)
 
