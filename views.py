@@ -4,7 +4,7 @@ from django.views.generic import TemplateView
 from kittu.models import funday
 
 class Homeview(TemplateView):
-	Template_view="index.html"
+	Template_view="sample.html"
 
 	def get(self,request):
 		return render(request,self.Template_view)
