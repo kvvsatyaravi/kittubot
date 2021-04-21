@@ -7,28 +7,30 @@
 
 > chatbot
 
-### 🏠 [Homepage](https://github.com/kefranabg/readme-md-generator#readme)
+### 🏠 [Homepage]
 
 ## Prerequisites
 
-- node >=9.3.0
+- python >=3.0
 
 ## Install
 
 ```sh
-npm install
+pip install django
 ```
 
 ## Usage
 
 ```sh
-npm run start
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
 ```
 
 ## Run tests
 
 ```sh
-npm run test
+python manage.py test
 ```
 
 ## Author
@@ -48,12 +50,3 @@ Feel free to check [issues page](https://github.com/kefranabg/readme-md-generato
 
 Give a ⭐️ if this project helped you!
 
-
-## 📝 License
-
-Copyright © 2021 [ravi](https://github.com/kefranabg).
-
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
