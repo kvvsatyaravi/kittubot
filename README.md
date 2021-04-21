@@ -1,24 +1,59 @@
-# kittubot
+# Welcome to kittu bot 👋
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000)
+![Prerequisite](https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/kefranabg/readme-md-generator#readme)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kefranabg/readme-md-generator/graphs/commit-activity)
+[![License: MIT](https://img.shields.io/github/license/kefranabg/kittu bot)](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE)
 
-kittubot is a chatbot
-created date = 3-5-2019
-version = 0.1 
-background working:it is simple to explain because it will working based on database.
+> chatbot
 
-### working
-Here i added some records to sqlite database.so while giving inputs in number format upto 20 we can get outputs by retrieving the records from database.
+### 🏠 [Homepage](https://github.com/kefranabg/readme-md-generator#readme)
 
-### technologys
-Python 3.0+
-Django [web framework]
+## Prerequisites
 
-### usage
-open the kittubot folder 
-[windows] on command promt type these command (or) [linux] on terminal type these command 
->python manage.py runserver
+- node >=9.3.0
 
-now goto browser and enter 127.0.0.1:8000
+## Install
 
-output interface
-![GitHub Logo](https://github.com/kvvsatyaravi/kittubot/blob/master/Capture.PNG)
+```sh
+npm install
+```
 
+## Usage
+
+```sh
+npm run start
+```
+
+## Run tests
+
+```sh
+npm run test
+```
+
+## Author
+
+👤 **ravi**
+
+* Website: https://www.franck-abgrall.me/
+* GitHub: [@kefranabg](https://github.com/kefranabg)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+
+## 📝 License
+
+Copyright © 2021 [ravi](https://github.com/kefranabg).
+
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
